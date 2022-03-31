@@ -23,3 +23,11 @@
   <a href = "mailto:diackson123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diackson-marques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+  ## Olá pessoal 👋
+Sou um técnico em informática graduado em Análise e Desenvolvimento de Software, gosto de muito de programar com 22 anos tenho experiência para agregar sou focado, proativo e com muita cede de aprendizado pois na área da programação sempre se estuda e melhora gosto compartilha conhecimento e ajudar a quem precisa, sei arte gráfica e design onde tenho conhecimento e estudo para sempre evoluir nessa área onde agrega bastante como desenvolvedor Frontend e Backend. :smile:
+
+Sou apaixonado por resolver problemas utilizando a programação.<br/>
+Sou um FullStack Developer :computer:
+
+Procuro ajudar e ter reconhecimento na área do desenvolvimento, com o objetivo de desenvolver minhas atividades de forma responsável e dedicada, aprimorando minhas habilidades.
