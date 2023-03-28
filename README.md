@@ -25,7 +25,7 @@
 </div>
 
   ## Olá pessoal 👋
-Sou um técnico em informática graduado em Análise e Desenvolvimento de Software, gosto de muito de programar com 22 anos tenho experiência para agregar sou focado, proativo e com muita cede de aprendizado pois na área da programação sempre se estuda e melhora gosto compartilha conhecimento e ajudar a quem precisa, sei arte gráfica e design onde tenho conhecimento e estudo para sempre evoluir nessa área onde agrega bastante como desenvolvedor Frontend e Backend. :smile:
+Sou um técnico em informática graduado em Análise e Desenvolvimento de Software, gosto de muito de programar com 24 anos tenho experiência para agregar sou focado, proativo e com muita cede de aprendizado pois na área da programação sempre se estuda e melhora gosto compartilha conhecimento e ajudar a quem precisa, sei arte gráfica e design onde tenho conhecimento e estudo para sempre evoluir nessa área onde agrega bastante como desenvolvedor Frontend e Backend. :smile:
 
 Sou apaixonado por resolver problemas utilizando a programação.<br/>
 Sou um FullStack Developer :computer:
